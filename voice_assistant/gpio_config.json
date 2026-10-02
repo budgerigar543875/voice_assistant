@@ -1,0 +1,7 @@
+{
+    "mode": "bcm",
+    "channels": {
+        "out": [17],
+        "in": []
+    }
+}

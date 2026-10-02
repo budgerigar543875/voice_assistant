@@ -1,0 +1,5 @@
+{
+    "model_path": "dir_path",
+    "sample_rate": 16000,
+    "block_size": 4000
+}

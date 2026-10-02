@@ -1,0 +1,6 @@
+{
+    "おはよう": {"class": "good_morning"},
+    "いまなんじ": {"class": "what_time"},
+    "でんきつけて": {"class": "light_on", "channels": [17]},
+    "でんきけして": {"class": "light_off", "channels": [17]}
+}
